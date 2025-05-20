@@ -35,7 +35,6 @@ ROROBO知识库（ROROBO Knowledge Hub）是一个致力于整合、梳理与传
 ✅ 深度互动的问答社区  
 ✅ 开放共享的协作平台  
 
-立即探索：[投稿与合作：content@rorobo.org](mailto:content@rorobo.org)
 
 ### 愿景宣言
 "以知识为支点，撬动机器人技术的无限可能。"  
